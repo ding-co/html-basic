@@ -10,4 +10,4 @@ HTML - Basic (developer's dignity)
 
 > - [x] [Chapter 4 - HTML 폼](https://github.com/ding-co/html-basic/tree/main/code/ch04)
 
-> - [ ] [Chapter 5 - HTML 시맨틱 요소](https://github.com/ding-co/html-basic/tree/main/code/ch05)
+> - [x] [Chapter 5 - HTML 시맨틱 요소](https://github.com/ding-co/html-basic/tree/main/code/ch05)
