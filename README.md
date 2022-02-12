@@ -4,7 +4,7 @@ HTML - Basic (developer's dignity)
 
 > - [x] [Chapter 1 - HTML](https://github.com/ding-co/html-basic/tree/main/code/ch01)
 
-> - [ ] [Chapter 2 - 개발환경 구성](https://github.com/ding-co/html-basic/tree/main/code/ch02)
+> - [x] [Chapter 2 - 개발환경 구성](https://github.com/ding-co/html-basic/tree/main/code/ch02)
 
 > - [ ] [Chapter 3 - HTML 기본](https://github.com/ding-co/html-basic/tree/main/code/ch03)
 
